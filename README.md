@@ -1,2 +1,2 @@
 # Git_homework3 
-Hello
+Сделаем первый коммит
